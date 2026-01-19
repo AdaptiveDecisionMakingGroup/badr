@@ -1,0 +1,30 @@
+{
+    "('test_rmse', 'mean')": {
+        "BADR": 2.5554,
+        "Balanced": 2.5168,
+        "ERM": 2.5085,
+        "MinMax": 2.5314,
+        "One-Fit": 2.68
+    },
+    "('test_rmse', 'std')": {
+        "BADR": 4.1021,
+        "Balanced": 4.055,
+        "ERM": 4.042,
+        "MinMax": 4.0855,
+        "One-Fit": 4.3114
+    },
+    "('test_metric', 'mean')": {
+        "BADR": 0.8666,
+        "Balanced": 1.0935,
+        "ERM": 1.0974,
+        "MinMax": 1.0728,
+        "One-Fit": 1.0239
+    },
+    "('test_metric', 'std')": {
+        "BADR": 0.1188,
+        "Balanced": 0.3596,
+        "ERM": 0.3672,
+        "MinMax": 0.3453,
+        "One-Fit": 0.2766
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "('test_acc', 'mean')": {
+        "BADR": 0.7628,
+        "Balanced": 0.7634,
+        "ERM": 0.7637,
+        "MinMax": 0.7633,
+        "One-Fit": 0.7585
+    },
+    "('test_acc', 'std')": {
+        "BADR": 0.1231,
+        "Balanced": 0.1221,
+        "ERM": 0.1219,
+        "MinMax": 0.1223,
+        "One-Fit": 0.1282
+    },
+    "('test_metric', 'mean')": {
+        "BADR": 0.2947,
+        "Balanced": 0.347,
+        "ERM": 0.3432,
+        "MinMax": 0.3372,
+        "One-Fit": 0.318
+    },
+    "('test_metric', 'std')": {
+        "BADR": 0.1031,
+        "Balanced": 0.1102,
+        "ERM": 0.1089,
+        "MinMax": 0.1077,
+        "One-Fit": 0.1152
+    }
+}

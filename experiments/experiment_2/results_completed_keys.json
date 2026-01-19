@@ -1,0 +1,6305 @@
+{
+    "per_key_algos": {
+        "E|WY|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WY|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|VT|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ND|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|SD|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|DE|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|MT|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ME|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|WV|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|ID|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "E|PR|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WY|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|VT|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ND|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|SD|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|DE|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|MT|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ME|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|WV|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|ID|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "I|PR|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2014|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2014|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2014|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2014|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2014|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2014|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2015|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2015|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2015|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2015|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2015|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2015|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2016|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2016|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2016|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2016|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2016|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2016|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2017|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2017|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2017|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2017|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2017|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2017|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WY|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|VT|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ND|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|SD|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|DE|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|MT|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ME|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|WV|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|ID|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2018|2|Demographic Parity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2018|2|Equalized Odds": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2018|2|Equal Opportunity": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2018|2|Disparate Mistreatment": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2018|2|Group Variance": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ],
+        "TT|PR|2018|2|Individual Fairness": [
+            "badr",
+            "balanced",
+            "erm",
+            "minmax",
+            "one_fit"
+        ]
+    },
+    "total_records": 0
+}

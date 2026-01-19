@@ -1,0 +1,130 @@
+site_name: Badr
+site_description: Adaptive Reweighting for Fairness-Informed Pareto Optimization
+repo_name: AdaptiveDecisionMakingGroup//badr
+repo_url: https://github.com/AdaptiveDecisionMakingGroup//badr
+strict: true
+
+theme:
+  name: material
+  language: en
+  favicon: images/favicon.png
+  icon:
+    logo: fontawesome/solid/chevron-right
+    repo: fontawesome/brands/github-alt
+
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  features:
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotate
+    - content.code.copy
+    - navigation.path
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - navigation.footer
+    - toc.follow
+    - announce.dismiss
+
+    - navigation.instant
+    - navigation.instant.prefetch
+    - toc.integrate
+
+  font:
+    text: IBM Plex Sans
+    code: Source Code Pro
+
+extra_css:
+  - css/pygments-light.css
+  - css/pygments-dark.css
+  - https://unpkg.com/katex@0/dist/katex.min.css
+
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+  
+
+nav:
+  - Introduction: index.md
+  - Getting started: getting-started/index.md
+  - API Reference:
+      - reference/index.md
+      - Badr: reference/badr.md
+      - Datasets: reference/datasets.md
+      - Metrics: reference/metrics.md
+      - Models: reference/models.md
+      - Algorithms: reference/algorithms.md
+      - Oracles: reference/oracles.md
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.snippets
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+      noclasses: false
+      use_pygments: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            docstring_style: numpy
+            docstring_section_style: list
+            show_root_heading: false
+            show_source: false
+            show_signature_annotations: true
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn

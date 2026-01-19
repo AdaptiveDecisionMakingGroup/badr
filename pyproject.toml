@@ -1,0 +1,33 @@
+[project]
+name = "badr"
+version = "0.1.0"
+description = "Badr is a framework for training fair machine-learning models that minimize a chosen fairness metric while preserving Pareto-optimal performance across sensitive groups."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cvxpy>=1.6.5",
+    "folktables>=0.0.12",
+    "jax==0.4.26",
+    "jaxlib==0.4.26",
+    "jaxopt>=0.8.5",
+    "logging>=0.4.9.6",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "pathlib>=1.0.1",
+    "scikit-learn>=1.6.1",
+    "tqdm>=4.67.1",
+    "tueplots>=0.2.1",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.6.14",
+    "mkdocstrings-python>=1.16.11",
+    "ty>=0.0.1a6",
+]
