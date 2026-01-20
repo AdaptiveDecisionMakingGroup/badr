@@ -5,9 +5,9 @@ import jax.numpy as jnp
 from warnings import filterwarnings
 
 filterwarnings("ignore", category=RuntimeWarning)
-from scipy.optimize import minimize
+from scipy.optimize import minimize # noqa: E402
 
-from .__base__ import Algorithm
+from .__base__ import Algorithm # noqa: E402
 
 
 class SLSQP(Algorithm):

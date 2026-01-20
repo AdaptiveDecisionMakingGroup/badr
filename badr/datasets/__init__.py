@@ -172,7 +172,7 @@ class Dataset:
 
 
 from .adult import fetch_adult  # noqa: E402
-from .arrhythmia import fetch_arrhythmia, fetch_arrhythmia_cv  # noqa: E402
+from .arrhythmia import fetch_arrhythmia, fetch_arrhythmia_cv  # noqa: E402, F401
 from .communities_and_crime import fetch_communities_and_crime  # noqa: E402
 from .compas import fetch_compas  # noqa: E402
 from .dataframe import load_dataframe  # noqa: E402
@@ -181,11 +181,11 @@ from .folktables import (  # noqa: E402
     fetch_ACSIncome,
     fetch_ACSIncomeR,
     fetch_ACSTravelTime,
-    fetch_ACSEmployment_cv,
-    fetch_ACSIncome_cv,
-    fetch_ACSTravelTime_cv,
+    fetch_ACSEmployment_cv,  # noqa: F401
+    fetch_ACSIncome_cv,  # noqa: F401
+    fetch_ACSTravelTime_cv,  # noqa: F401
 )
-from .german_credit import fetch_germancredit, fetch_germancredit_cv  # noqa: E402
+from .german_credit import fetch_germancredit, fetch_germancredit_cv  # noqa: E402, F401
 from .law_school import fetch_lawschool  # noqa: E402
 from .parkinsons_telemonitoring import fetch_parkinsons  # noqa: E402
 from .student_performance import fetch_studentperformance  # noqa: E402
