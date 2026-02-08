@@ -10,3 +10,15 @@
 ``badr`` is a Python package that transforms a large range of estimators into **fair** and **Pareto-efficient** estimators.
 
 Have a look at ``badr`` [documentation](https://badr.readthedocs.io/en/latest/)!
+
+## Citations
+If you find this repository useful, or you use it in your research, please consider citing the following paper:
+
+```
+@article{tanji2026fairness,
+  title   = {Fairness-informed Pareto Optimization: An Efficient Bilevel Framework},
+  author  = {Tanji, Sofiane and Vaiter, Samuel and Laguel, Yassine},
+  journal = {arXiv preprint arXiv:2601.13448},
+  year    = {2026}
+}
+```
