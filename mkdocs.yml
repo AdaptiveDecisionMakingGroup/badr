@@ -1,7 +1,7 @@
 site_name: Badr
 site_description: Adaptive Reweighting for Fairness-Informed Pareto Optimization
-repo_name: AdaptiveDecisionMakingGroup//badr
-repo_url: https://github.com/AdaptiveDecisionMakingGroup//badr
+repo_name: AdaptiveDecisionMakingGroup/badr
+repo_url: https://github.com/AdaptiveDecisionMakingGroup/badr
 strict: true
 
 theme:
@@ -52,8 +52,8 @@ theme:
     code: Source Code Pro
 
 extra_css:
-  - css/pygments-light.css
-  - css/pygments-dark.css
+  - styles/pygments-light.css
+  - styles/pygments-dark.css
   - https://unpkg.com/katex@0/dist/katex.min.css
 
 extra_javascript:

@@ -1,0 +1,5 @@
+# Documentation toolchain (used by Read the Docs and `mkdocs serve` locally).
+# Mirrors the doc tools in pyproject.toml's [dependency-groups] dev.
+mkdocs>=1.6.1
+mkdocs-material>=9.6.14
+mkdocstrings-python>=1.16.11
