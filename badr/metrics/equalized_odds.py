@@ -2,7 +2,8 @@ from functools import partial
 
 import jax.numpy as jnp
 from jax import jit
-from jax.nn import logsumexp, sigmoid
+from jax.nn import sigmoid
+from jax.scipy.special import logsumexp
 from jax.typing import ArrayLike
 
 from badr.datasets import Dataset

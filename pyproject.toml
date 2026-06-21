@@ -29,13 +29,11 @@ classifiers = [
 dependencies = [
     "cvxpy>=1.6.5",
     "folktables>=0.0.12",
-    "jax==0.4.26",
-    "jaxlib==0.4.26",
-    "jaxopt>=0.8.5",
-    "matplotlib>=3.10.3",
-    "numpy>=2.2.5",
-    "pandas>=2.2.3",
-    "scikit-learn>=1.6.1",
+    "jax>=0.6",
+    "matplotlib>=3.8",
+    "numpy>=1.26,<2.1",
+    "pandas>=2.2,<3",
+    "scikit-learn>=1.4",
     "tqdm>=4.67.1",
     "tueplots>=0.2.1",
 ]
