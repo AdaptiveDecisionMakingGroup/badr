@@ -1,28 +1,56 @@
 [project]
 name = "badr"
-version = "0.1.0"
+dynamic = ["version"]
 description = "Badr is a framework for training fair machine-learning models that minimize a chosen fairness metric while preserving Pareto-optimal performance across sensitive groups."
 readme = "README.md"
 requires-python = ">=3.11"
+license = "GPL-3.0-or-later"
+license-files = ["LICENSE"]
+authors = [
+    { name = "Sofiane Tanji", email = "sofianetanji2@gmail.com" },
+    { name = "Samuel Vaiter" },
+    { name = "Yassine Laguel" },
+]
+keywords = [
+    "fairness",
+    "machine-learning",
+    "bilevel-optimization",
+    "pareto-optimization",
+    "scikit-learn",
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
 dependencies = [
     "cvxpy>=1.6.5",
     "folktables>=0.0.12",
     "jax==0.4.26",
     "jaxlib==0.4.26",
     "jaxopt>=0.8.5",
-    "logging>=0.4.9.6",
     "matplotlib>=3.10.3",
     "numpy>=2.2.5",
     "pandas>=2.2.3",
-    "pathlib>=1.0.1",
     "scikit-learn>=1.6.1",
     "tqdm>=4.67.1",
     "tueplots>=0.2.1",
 ]
 
+[project.urls]
+Homepage = "https://github.com/AdaptiveDecisionMakingGroup/badr"
+Documentation = "https://badr.readthedocs.io/en/latest/"
+Repository = "https://github.com/AdaptiveDecisionMakingGroup/badr"
+
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
+
+[tool.hatch.version]
+path = "badr/_version.py"
 
 [dependency-groups]
 dev = [
