@@ -20,6 +20,7 @@ class FairnessMetric:
     def __init__(self, name: str, rho: float = 0.0):
         self.name = name
         self.rho = rho
+        self.model = None
 
     def set_model(self, model=None):
         """
