@@ -1,23 +1,20 @@
 """Helper utilities for the BADR fairness lab.
 
-This module provides the *given* infrastructure for the two lab notebooks
-(``fairness_badr_lab.ipynb`` and ``fairness_badr_lab_solutions.ipynb``):
+This module provides the *given* infrastructure for the BADR fairness lab
+notebooks (the student notebook and the solutions notebook):
 
 * data / model glue around the :mod:`badr` toolbox
   (:func:`make_model`, :func:`group_lists`, :func:`fit_weights`,
   :func:`uniform_weights`, :func:`balanced_weights`);
 * small checking / reporting helpers
   (:func:`check_close`, :func:`print_weighting_table`, :func:`minmax_reference`);
-* the BADR-GD driver that consumes the student-written derivative oracles
-  (:func:`run_badr`);
 * the three-group simplex visualization
   (:func:`default_markers`, :func:`plot_simplex_figure`).
 
-Students only fill in the mathematical pieces inside the notebooks; everything
-here is meant to be used as-is.
+In the current lab, students implement only the fairness metrics in the
+notebook. Everything here is meant to be used as-is.
 """
 
-import jax
 from jax import config
 
 config.update("jax_enable_x64", True)  # the lab works in float64
@@ -221,129 +218,7 @@ def minmax_reference(dset, l2_reg=1e-1):
 
 
 # --------------------------------------------------------------------------- #
-# 3. BADR-GD driver
-# --------------------------------------------------------------------------- #
-class _Parts:
-    """Compiled JAX derivative functions passed to the student oracle functions.
-
-    Attributes
-    ----------
-    grad_loss(w, X, y)
-        ``grad_w ell(w; X, y)``.
-    hess_loss(w, X, y)
-        ``hess_w ell(w; X, y)``.
-    grad_metric(w)
-        ``grad_w metric(w)``.
-    """
-
-    def __init__(self, model, metric_fn, X_list, y_list):
-        self.grad_loss = jax.jit(jax.grad(model._loss))
-        self.hess_loss = jax.jit(jax.hessian(model._loss))
-        self.grad_metric = jax.jit(jax.grad(lambda w: metric_fn(w, X_list, y_list)))
-
-
-def _project_simplex(v, z=1.0):
-    """Euclidean projection of ``v`` onto ``{x >= 0, sum x = z}``."""
-    v = np.asarray(v, dtype=float)
-    u = np.sort(v)[::-1]
-    cssv = np.cumsum(u) - z
-    ind = np.arange(1, len(v) + 1)
-    rho = np.nonzero(u - cssv / ind > 0)[0][-1]
-    theta = cssv[rho] / (rho + 1)
-    return jnp.asarray(np.maximum(v - theta, 0.0))
-
-
-def run_badr(
-    dset,
-    model,
-    metric_fn,
-    oracle_fns,
-    w0,
-    name="metric",
-    max_iter=800,
-    step_w=0.5,
-    step_v=0.5,
-    step_lambda=0.02,
-    clip=1.0,
-    verbose=False,
-):
-    """Run single-loop BADR-GD to minimize ``V(lambda) = metric(w^*(lambda))``.
-
-    The driver owns the iteration and the simplex projection; the four
-    student-provided callables in ``oracle_fns`` supply the derivative oracles.
-    The update is::
-
-        w      <- w - step_w     * grad_w f(w, lambda)
-        v      <- v - step_v     * ( grad_w metric(w) + Hess_ww f(w, lambda) v )
-        lambda <- Proj_simplex( lambda - step_lambda * clip(J^T v) )
-
-    with ``f(w, lambda) = sum_s lambda_s ell_s(w)`` and
-    ``J = d/dlambda grad_w f``.
-
-    Parameters
-    ----------
-    dset : badr.datasets.Dataset
-        Dataset (training split is used).
-    model : badr.models.LogisticRegression
-        Lower-level model (used only for its loss derivatives).
-    metric_fn : callable
-        Fairness metric ``metric(w, X_list, y_list)`` to minimize.
-    oracle_fns : dict[str, callable]
-        Must contain ``"grad_lower_groups"``, ``"grad_upper"``, ``"hvp"`` and
-        ``"jt_v"`` with the signatures described in the notebook.
-    w0 : array-like, shape (d,)
-        Warm-start parameters (typically the ERM solution).
-    name : str, default="metric"
-        Label used in the verbose printout.
-    max_iter : int, default=800
-        Number of BADR-GD iterations.
-    step_w, step_v : float, default=0.5
-        Step sizes for the ``w`` and ``v`` updates.
-    step_lambda : float, default=0.02
-        Step size for the ``lambda`` update.
-    clip : float, default=1.0
-        L2-norm clipping threshold for the hypergradient.
-    verbose : bool, default=False
-        If True, print the recovered weighting.
-
-    Returns
-    -------
-    numpy.ndarray, shape (S,)
-        The learned group weighting ``lambda``.
-    """
-    X_list, y_list = group_lists(dset, "train")
-    parts = _Parts(model, metric_fn, X_list, y_list)
-    S = dset.n_groups
-
-    grad_lower_groups = oracle_fns["grad_lower_groups"]
-    grad_upper = oracle_fns["grad_upper"]
-    hvp = oracle_fns["hvp"]
-    jt_v = oracle_fns["jt_v"]
-
-    w = jnp.asarray(w0, dtype=jnp.float64)
-    v = jnp.zeros_like(w)
-    lam = jnp.ones(S, dtype=jnp.float64) / S
-
-    for _ in range(max_iter):
-        grad_groups = grad_lower_groups(parts, w, X_list, y_list)  # (S, d)
-        grad_w = grad_groups.T @ lam  # grad_w f(w, lambda)
-        grad_metric_w, grad_metric_lam = grad_upper(parts, w, lam)
-        Hv = hvp(parts, w, lam, v, X_list, y_list)  # Hess_ww f @ v
-        hyper = jt_v(parts, w, v, X_list, y_list) + grad_metric_lam
-        hyper = jnp.minimum(1.0, clip / (jnp.linalg.norm(hyper) + 1e-12)) * hyper
-
-        w = w - step_w * grad_w
-        v = v - step_v * (grad_metric_w + Hv)
-        lam = _project_simplex(lam - step_lambda * hyper)
-
-    lam = np.asarray(lam, dtype=float)
-    if verbose:
-        print(f"   [{name}] lambda* = {np.round(lam, 3)}")
-    return lam
-
-
-# --------------------------------------------------------------------------- #
-# 4. Three-group simplex visualization
+# 3. Three-group simplex visualization
 # --------------------------------------------------------------------------- #
 _MARKER_STYLE = {
     "Uniform": dict(marker="v", color="#662C91", size=240),
@@ -419,7 +294,7 @@ def _plot_value_simplex(
     """Color one simplex panel by ``V(lambda)`` and draw the markers."""
     Z = np.array([float(metric_fn(c, X_list, y_list)) for c in grid_coefs])
     lo, hi = Z.min(), Z.max()
-    Zn = np.clip((Z - lo) / (hi - lo + 1e-12), 0, 1)  # 0 = fairest, 1 = least fair
+    Zn = np.clip((Z - lo) / (hi - lo + 1e-12), 0, 1)  # 0 = lower, 1 = higher
 
     xy = np.array([_from_3d_to_2d(lam) for lam in grid])
     tri = mtri.Triangulation(xy[:, 0], xy[:, 1])
